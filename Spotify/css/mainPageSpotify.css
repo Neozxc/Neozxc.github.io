@@ -39,6 +39,11 @@ body {
     color: black;
 }
 
+.nav-bar .dunno{
+    color: white;
+    font-weight: bold;
+}
+
 .nav-bar .login{
     font-weight: normal;
 }
@@ -56,17 +61,25 @@ body {
 .spotifypar .spotify-text {
     margin-top: auto;
     padding-top: 50px;   
-    /* padding-left: 370px; */
     padding-bottom: 5px;
     font-weight: bold;
 }
 
 .spotify-premium h1 {
+    font-size: 60px;
     font-weight: bold;
     padding-left: 370px;
 }
 
+.spotify-premium .lol2{
+    width: 400px;
+    overflow: hidden;
+    margin-bottom: -500px;
+    padding-left: 1150px;
+}
+
 .spotify-premium {
+    color: #1f2d71;
     background-color: #96f0b6;
     padding-bottom: 50px;
 }
@@ -76,25 +89,33 @@ body {
     padding-left: 370px;
 }
 
+.spotify-premium .itends {
+    color: #1f2d71;
+}
+.spotify-premium .p1 {
+    font-size: 27px;
+    color: #1f2d71;
+}
+
 .spotify-premium-button a{
     text-decoration: none;
     color: white;
     list-style-type: none;
 }
 
-.spotify-premium-button {
-    padding-top: 5px;
-    padding-left: 370px;
+.spotify-premium-button a {
+    color: #96f0b6;
 }
 
 .spotify-premium-button {
-    padding-top: 1px;
-    margin-left: 350px;
+    width: 200px;
+    margin-top: 30px;
+    margin-left: 360px;
     margin-right: 1300px;
     padding-left: 45px;
-    border: 2px solid black;
+    border: 2px solid;
     border-radius: 30px;
-    background-color: black;
+    background-color: #1f2d71;
 }
 
 .spotify-premium-footer {
@@ -104,4 +125,42 @@ body {
 
 /* Section 2 */
 
+.spotify-wrapped .logos .theimage2 {
+    width: 200px;
+}
 
+.spotify-wrapped .logos .theimage3 {
+    width: 160px;
+    padding-bottom: 13px;
+}
+
+.spotify-wrapped {
+    padding-left: 500px;
+    color: #1f2d71;
+    font-weight: bold;
+}
+
+.spotify-wrapped {
+    background-color: #f46ebe;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 370px;
+    font-weight: bold;
+}
+
+.spotify-wrapped .download {
+    margin-top: -10px;
+}
+
+.spotify-wrapped .hastag {
+    font-weight: bold;
+    color: #1f2d71;
+}
+
+.spotify-wrapped .wrap2021 {
+    font-size: 60px;
+}
+
+.spotify-wrapped .butits {
+    font-size: 26px;
+}
