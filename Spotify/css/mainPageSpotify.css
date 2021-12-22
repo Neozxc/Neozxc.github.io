@@ -13,13 +13,12 @@ body {
     width: 160px;
     height: 50px;
     overflow: hidden;
-    margin-bottom: -65px;
-    margin-left: 150px;
+    margin-bottom: -55px;
+    margin-left: 350px;
 }
 
 .nav-bar{
-    padding-top: 5px;
-    padding-bottom: 80px;
+    padding-bottom: 50px;
     padding-right: 300px;
     background-color: black;
 }
@@ -32,6 +31,7 @@ body {
 }
 
 .nav-bar li{
+    line-height: 0.1px;
     display: inline;
     float: right;
     padding: 10px;
@@ -53,6 +53,55 @@ body {
 
 /* First section */
 
+.spotifypar .spotify-text {
+    margin-top: auto;
+    padding-top: 50px;   
+    /* padding-left: 370px; */
+    padding-bottom: 5px;
+    font-weight: bold;
+}
 
+.spotify-premium h1 {
+    font-weight: bold;
+    padding-left: 370px;
+}
+
+.spotify-premium {
+    background-color: #96f0b6;
+    padding-bottom: 50px;
+}
+
+.spotify-premium p {
+    font-weight: bold;
+    padding-left: 370px;
+}
+
+.spotify-premium-button a{
+    text-decoration: none;
+    color: white;
+    list-style-type: none;
+}
+
+.spotify-premium-button {
+    padding-top: 5px;
+    padding-left: 370px;
+}
+
+.spotify-premium-button {
+    padding-top: 1px;
+    margin-left: 350px;
+    margin-right: 1300px;
+    padding-left: 45px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: black;
+}
+
+.spotify-premium-footer {
+    padding-left: 370px;
+    padding-top: 20px;
+}
+
+/* Section 2 */
 
 
