@@ -254,26 +254,40 @@ body {
     color: gray;
     font-size: 13px;
     padding-top: 50px;
-    padding-left: 350px;
+    padding-left: 490px;
     display: flex;
     justify-content: space-around;
     width: 50%;
 }
 
+.footer .location {
+    margin-top: -75px;
+    padding-bottom: 100px;
+    padding-left: 1490px;
+    font-size: 5px;
+}
 
+.footer .uk {
+    font-size: 13px;
+}
 
+.footer .ab {
+    color: white;
+    padding-left: 27px;
+}
 
+.footer .hahaButtons {
+    margin-left: 1530px;
+}
 
+.logoHaha3 {
+    padding-left: 300px;
+    width: 150px;
+}
 
-
-
-
-
-
-
-
-
-
+i {
+    color: white;
+}
 
 a {
     text-decoration: none;
@@ -289,6 +303,10 @@ ul {
 li {
     padding-bottom: 5px;
 }
+
+
+
+/* The end */
 
 
 
