@@ -17,6 +17,10 @@ body {
     margin-left: 350px;
 }
 
+.listento {
+    text-decoration: underline;
+}
+
 .nav-bar{
     padding-bottom: 50px;
     padding-right: 300px;
